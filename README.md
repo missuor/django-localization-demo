@@ -26,6 +26,6 @@
 
 **others**
 
-[https://poedit.net/](Poedit(windows))
+[Poedit(windows)](https://poedit.net/)
 
-[http://www.missuor.com/blog/2016/9/django-localization-demo](django-localization-demo)
+[django-localization-demo](http://www.missuor.com/blog/2016/9/django-localization-demo)
