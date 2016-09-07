@@ -25,7 +25,5 @@
 + django-admin makemessages -a
 
 **others**
-
-[Poedit(windows)](https://poedit.net/)
-
-[django-localization-demo](http://www.missuor.com/blog/2016/9/django-localization-demo)
++ [Poedit(windows)](https://poedit.net/)
++ [django-localization-demo](http://www.missuor.com/blog/2016/9/django-localization-demo)

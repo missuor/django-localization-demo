@@ -1,6 +1,6 @@
 *.log
 *.pot
 *.pyc
+*.mo
 local_settings.py
 db.sqlite3
-/locale/zh_CN/LC_MESSAGES/*.mo

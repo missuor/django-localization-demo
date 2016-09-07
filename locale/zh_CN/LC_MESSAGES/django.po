@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django-localization-demo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-06 19:01+0800\n"
-"PO-Revision-Date: 2016-09-06 19:05+0800\n"
+"POT-Creation-Date: 2016-09-07 09:39+0800\n"
+"PO-Revision-Date: 2016-09-07 09:41+0800\n"
 "Last-Translator: missuor <doge@missuor.com>\n"
 "Language-Team: missuor <doge@missuor.com>\n"
 "Language: zh_CN\n"
@@ -16,7 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.6.10\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 
 #: app/admin.py:17 app/models.py:18
 msgid "book name"
@@ -45,12 +44,3 @@ msgstr "类别"
 #: app/models.py:22 app/models.py:23
 msgid "Book"
 msgstr "书籍"
-
-#~ msgid "book category a"
-#~ msgstr "小说"
-
-#~ msgid "book category b"
-#~ msgstr "杂志"
-
-#~ msgid "book category c"
-#~ msgstr "报刊"
